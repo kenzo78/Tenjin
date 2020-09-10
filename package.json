@@ -1,0 +1,27 @@
+{
+  "name": "elearn",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "debug": "*",
+    "express": "*",
+    "express-handlebars": "*",
+    "morgan": "*",
+    "serve-favicon": "*",
+    "bcryptjs": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "express-session": "*",
+    "connect-flash": "*",
+    "express-messages": "*",
+    "express-validator": "*"
+  }
+}
